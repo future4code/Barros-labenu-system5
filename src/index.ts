@@ -10,3 +10,5 @@ app.use(cors())
 app.listen(3003, () => {
     console.log("Server is running in http://localhost:3003");
 });
+
+console.log("SOCORRO");
