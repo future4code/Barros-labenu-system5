@@ -31,3 +31,6 @@ As funcionalidades básicas são:
 → Adicionar docente na turma;
 
 → Pegar a idade de algum estudante a partir do id
+
+Deploy
+https://dashboard.render.com/web/srv-ces81t2rrk0dan7b4b8g/deploys/dep-ces81uarrk0dan7b4n6g
