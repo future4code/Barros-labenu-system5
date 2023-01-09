@@ -37,14 +37,14 @@ Representa docentes da nossa instituição. Eles devem possuir: id, nome, email,
 <h2>
     <br>
     <p style="color: #D30404; font-weight: bold;">🔗 Link do Deploy</p> 
-   
+    https://barros-labesystem-5.onrender.com
 </h2>
 
 <h2>
     <br>
     <p style="color: #D30404; font-weight: bold;">🔗 Link da Documentação</p>
     
-
+https://grey-trinity-88559.postman.co/workspace/Team-Workspace~76161ebe-bd51-4e14-89e1-b29df2a2b83a/documentation/22348275-6252104f-2df3-4daa-ace4-ad5364240e88
 </h2>
 
 <h2>
