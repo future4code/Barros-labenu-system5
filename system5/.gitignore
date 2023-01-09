@@ -1,0 +1,9 @@
+node_modules
+<<<<<<< Updated upstream
+package-lock.json
+build
+.env
+=======
+.env
+build
+>>>>>>> Stashed changes
